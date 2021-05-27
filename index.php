@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/asty.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<title>E-Library</title>
 </head>
 <body>
