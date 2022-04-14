@@ -26,7 +26,7 @@
 			<h1>E-Library Management System</h1>
 		</div>
 		<div class="footer">
-			<p>CopyRight &copy; V</p>
+			<p>CopyRights &copy; V</p>
 		</div>
 </body>
 </html>
