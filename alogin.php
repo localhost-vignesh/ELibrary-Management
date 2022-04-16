@@ -51,15 +51,7 @@ session_start();
 						}
 					}
 				?>
-				<div id="center">
-					<img src="css/logo.png" height="70" width="70">
-					<div class="card">
-					<form action="alogin.php" method="post">
-						<input type="text" name="aname" placeholder="Name" id="name" required><br>
-						<input type="password" name="apass" placeholder="Password" id="name" required><br>
-						<button type="submit" name="submit" id="btn">Login</a></button>
-					</form>
-				</div>
+				
 				</div>
 			</div>
 		</div>
