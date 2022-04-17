@@ -59,7 +59,13 @@ if (!isset($_SESSION["AID"]))
 					 	}
 					} 
 				?>
-				
+				<div class="card">
+				<form action="<?php echo $_SERVER["PHP_SELF"];?>" method="post">
+					<input type="Password" name="opass" placeholder="Old Password" id="name" required><br>
+					<input type="Password" name="npass" placeholder="New Password" id="name" required><br>
+					<button type="submit" name="submit">Change</button>
+				</form>
+				</div>
 			</div>
 		</div>
 	</div>
