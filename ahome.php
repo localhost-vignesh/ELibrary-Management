@@ -16,7 +16,7 @@ if (!isset($_SESSION["AID"]))
 <html>
 <head>
 	<title>E-Library</title>
-	<link rel="stylesheet" type="text/css" href="css/asty.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<div id="hamburger" class="sidenav">
